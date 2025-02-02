@@ -6,7 +6,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main() {
     int year;
     cout << "Please give a year!" << endl;
